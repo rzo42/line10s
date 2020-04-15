@@ -7,7 +7,7 @@ A line 10 for the unexpanded Vic-20 written in Basic V2.0
 
 By: Ryan Liston
 
-Written: February 2040
+Written: February 2020
 
 =================================================================
 
@@ -42,7 +42,7 @@ L = move canon right
 
 Zombies are flooding out of the forest to the north.
 
-Defend the for with a canon. 
+Defend the fort with a canon. 
 
 If a zombie reaches the fort wall it's GAME OVER!
 
