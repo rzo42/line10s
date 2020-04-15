@@ -5,7 +5,7 @@ A line 10 for the unexpanded Vic-20 written in Basic V2.0
 
 By: Ryan Liston
 
-Written: February 2040
+Written: February 2020
 
 =================================================================
 
